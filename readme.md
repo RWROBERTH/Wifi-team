@@ -4,7 +4,10 @@ Como el equipo "Wi-Fi team" nuestro propósito es el de mantener a todo el mundo
 1. Crear un software cree rutinas de ejercicios y dietas saludables según las capacidades y discapacidades de las personas.
 2. Una plataforma de juegos educativos en línea que motive a los estudiantes a aprender y practicar diferentes habilidades y conocimientos.
 3. Un software de asistencia financiera que ayude a las personas a entender y administrar sus finanzas personales, incluyendo presupuestos, ahorros y deudas.
-
+https://github.com/SIS-111-2023-UCB-Paralelo-2/Wifi-team/blob/main/WIFI%20TEAM%20(1).png
+<p align="center">
+  <img src="https://github.com/SIS-111-2023-UCB-Paralelo-2/Wifi-team/blob/main/WIFI%20TEAM%20(1).png" alt="img">
+</p>
 ## 🛠 Integrantes del equipo
 -Luis Adolfo Sardina Zeballos
 -Silvana Noelia Bamba Sossa
